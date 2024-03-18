@@ -1,0 +1,29 @@
+*
+{
+  font-family: 'Poppins', sans-serif;    
+}
+.banner
+{
+  background-image: url(D:\Praveena\.vscode\.vscode\img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 0;
+  color: white;
+}
+.align-icon{
+  padding: 50px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.whatsapp
+{
+    color: rgb(46, 229, 46);
+    font-size: 23px;
+    border-radius: 50px;
+}
+.icons_px
+{
+    border-radius: 50px;
+    font-size: 20px;
+}
